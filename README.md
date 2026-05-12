@@ -3,4 +3,4 @@
 ## Preuve d'exécution
 Voici le résultat du build Jenkins :
 
-![Résultat Jenkins](downloads/tp04_1/helloworldjenkins.png)
+![Résultat Jenkins](screenshots/helloworldjenkins.png)
